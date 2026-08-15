@@ -3,7 +3,7 @@
 	"name": "139 Uploader",
 	"version": "1.0.0",
 	"minAppVersion": "1.0.0",
-	"description": "上传本地图片到中国移动云盘(139)并自动在光标处插入可点击链接（内部调用 D:/tool/obs139/139uplink.py）",
+	"description": "上传本地图片到中国移动云盘(139)生成本地直链，自动插入 Obsidian 笔记（内部调用 D:/obs139/139uplink.py）",
 	"author": "obs139",
 	"isDesktopOnly": true
 }
